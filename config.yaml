@@ -27,5 +27,5 @@ behaviors:
     time_horizon: 64
     summary_freq: 1000
 
-# Details on https://github.com/Unity-Technologies/ml-agents/blob/release_18/docs/Training-Configuration-File.md#sac-specific-configurations
+# Details on https://github.com/Unity-Technologies/ml-agents/blob/release_18/docs/Training-Configuration-File.md
 
