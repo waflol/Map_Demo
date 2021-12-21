@@ -27,17 +27,5 @@ behaviors:
     time_horizon: 64
     summary_freq: 1000
 
-# environment_parameters:
-#   ArcadeDriver:
-#       batch_size: 512
-#       learning_rate: 2.0e-4
-#   4x4Driver:
-#       beta: 5.0e-4
-#       batch_size: 512
+# Details on https://github.com/Unity-Technologies/ml-agents/blob/release_18/docs/Training-Configuration-File.md#sac-specific-configurations
 
-#   MuscleDriver:
-#       batch_size: 512
-
-#   RoadsterDriver:
-#       batch_size: 512
-#       learning_rate: 2.0e-4
